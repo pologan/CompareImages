@@ -1,0 +1,10 @@
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\bin\Debug\CompareImages.exe.config
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\bin\Debug\CompareImages.exe
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\bin\Debug\CompareImages.pdb
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\obj\Debug\CompareImages.csprojAssemblyReference.cache
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\obj\Debug\CompareImages.Properties.Resources.resources
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\obj\Debug\CompareImages.csproj.GenerateResource.cache
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\obj\Debug\CompareImages.csproj.CoreCompileInputs.cache
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\obj\Debug\CompareImages.exe
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\obj\Debug\CompareImages.pdb
+C:\Users\PGandorski\source\repos\CompareImages\CompareImages\obj\Debug\CompareImages.Form1.resources
